@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_administrasi_perpajakan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_agribisnis_pangan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_akuntasi_perpajakan.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_argoindustri.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_bisnis_digital.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_budidaya_perikanan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_budidaya_tanaman.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_ekonomi_bisnis.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_hortikultura.xml" value="0.5" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_manajemen_informatika.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_mekanisasi_pertanian.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_pengelolaan_agribisnis.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_pengelolaan_perhotelan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_pengolahan_patiseri.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_perikanan_tangkap.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_perjalanan_wisata.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_perkebunan.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_perkebunan_kopi.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_pertanian.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_peternakan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_produksi_manajemen_industri_perkebunan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_produksi_tanaman_perkebunan.xml" value="0.10759493670886076" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_produksi_ternak.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_tanaman_hortikultura.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_tanaman_pangan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknik_sumberdaya_lahan_dan_lingkungan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_pangan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_pembenihan_ikan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_perbenihan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_produksi_ternak.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_rekayasa_jalan.xml" value="0.1" />
+        <entry key="..\:/Users/Flex 5/polinela/app/src/main/res/layout/activity_teknologi_rekayasa_kimia_industri.xml" value="0.1" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_administrasi_perpajakan.xml" value="0.1875" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_agribisnis_pangan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_akuntasi_perpajakan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_argoindustri.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_bisnis_digital.xml" value="0.2390625" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_budidaya_perikanan.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_budidaya_tanaman.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_manajemen_informatika.xml" value="0.1875" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_mekanisasi_pertanian.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_pengelolaan_agribisnis.xml" value="0.2390625" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_pengelolaan_perhotelan.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_pengolahan_patiseri.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_perikanan_tangkap.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_perjalanan_wisata.xml" value="0.264" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_perkebunan_kopi.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_produksi_manajemen_industri_perkebunan.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_produksi_tanaman_perkebunan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_produksi_ternak.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_tanaman_hortikultura.xml" value="0.24010416666666667" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_tanaman_pangan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknik_sumberdaya_lahan_dan_lingkungan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknologi_pangan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknologi_pembenihan_ikan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknologi_perbenihan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknologi_rekayasa_jalan.xml" value="0.25416666666666665" />
+        <entry key="..\:/polinela/app/src/main/res/layout/activity_teknologi_rekayasa_kimia_industri.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+Jurusan Budidaya Tanaman Pangan
+Daftar Program Studi :
+D2. Teknik Produksi Tanaman Organik
+D3. Produksi Tanaman Pangan
+D3. Hortikultura
+S1.Tr. Teknologi Perbenihan
+S1.Tr. Teknologi Produksi Tanaman Hortikultura
+
+Jurusan Budidaya Tanaman Perkebunan
+Daftar Program Studi :
+D3. Produksi Tanaman Perkebunan
+S1.Tr. Produksi dan Manajemen Industri Perkebunan
+S1.Tr. Pengelolaan Perkebunan Kopi
+
+Jurusan Teknologi Pertanian
+Daftar Program Studi :
+D2. Pengolahan Patiseri
+D3. Teknik Sumberdaya Lahan dan Lingkungan
+D3. Mekanisasi Pertanian
+D3. Teknologi Pangan
+S1.Tr. Teknologi Rekayasa Kimia Industri
+S1.Tr. Teknologi Rekayasa Konstruksi Jalan dan Jembatan
+S1.Tr. Pengembangan Produk Agroindustri
+
+Jurusan Peternakan
+Daftar Program Studi :
+D3. Produksi Ternak
+D3. Budidaya Perikanan
+D3. Perikanan Tangkap
+S1.Tr. Teknologi Produksi Ternak
+S1.Tr. Teknologi Pembenihan Ikan
+
+Jurusan Ekonomi dan Bisnis
+Daftar Program Studi :
+D2. Administrasi Perpajakan
+D3. Manajemen Informatika
+D3. Perjalanan Wisata
+S1.Tr. Agribisnis Pangan
+S1.Tr. Pengelolaan Agribisnis
+S1.Tr. Akuntansi Perpajakan
+S1.Tr. Akuntansi Bisnis Digital
+S1.Tr. Pengelolaan Perhotelan
+S1.Tr. Teknologi Rekayasa Internet
